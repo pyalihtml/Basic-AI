@@ -4,6 +4,6 @@ Bu basit yapay zeka sayesinde bazı uygulama ve web siteleri açabilir, sizi şa
 
 EN :
 Thanks to this simple artificial intelligence, you can open some applications and websites and encounter things that will surprise you. Note: This 
-Artificial intelligence only work with Windows.,
+Artificial intelligence only work with Windows.
 
 <img src="https://github.com/pyalihtml/pyalihtml/blob/main/satoru-gojo-satoru.gif?raw=true"  width="350px">
